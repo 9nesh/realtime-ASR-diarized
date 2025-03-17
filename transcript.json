@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "start_time": 1742176112.999885,
+    "duration": 56.059332847595215,
+    "speakers": 1,
+    "date": "2025-03-16T21:49:29.059239"
+  },
+  "segments": [
+    {
+      "speaker_id": "S0",
+      "speaker_name": "Speaker 1",
+      "text": "I need your help.",
+      "start_time": 1742176115.013432,
+      "end_time": 1742176117.013433,
+      "confidence": 0.0,
+      "language": "en"
+    },
+    {
+      "speaker_id": "S0",
+      "speaker_name": "Speaker 1",
+      "text": "Thank you.",
+      "start_time": 1742176120.8709068,
+      "end_time": 1742176122.870908,
+      "confidence": 0.0,
+      "language": "en"
+    },
+    {
+      "speaker_id": "S0",
+      "speaker_name": "Speaker 1",
+      "text": "Hi Jake, how are you?",
+      "start_time": 1742176128.464594,
+      "end_time": 1742176130.464594,
+      "confidence": 0.0,
+      "language": "en"
+    },
+    {
+      "speaker_id": "S0",
+      "speaker_name": "Speaker 1",
+      "text": "in.",
+      "start_time": 1742176140.3062599,
+      "end_time": 1742176142.3062599,
+      "confidence": 0.0,
+      "language": "en"
+    },
+    {
+      "speaker_id": "S0",
+      "speaker_name": "Speaker 1",
+      "text": "That guy is sprinting from us.",
+      "start_time": 1742176158.394579,
+      "end_time": 1742176160.39458,
+      "confidence": 0.0,
+      "language": "en"
+    },
+    {
+      "speaker_id": "S0",
+      "speaker_name": "Speaker 1",
+      "text": "Okay.",
+      "start_time": 1742176159.9061608,
+      "end_time": 1742176161.906162,
+      "confidence": 0.0,
+      "language": "en"
+    }
+  ],
+  "speakers": {
+    "S0": {
+      "name": "Speaker 1",
+      "color": "#FF4B4B",
+      "total_duration": 1.0,
+      "speech_segments": 1,
+      "last_active_seconds_ago": 17.9614679813385,
+      "confidence": 0.6,
+      "num_embeddings": 1
+    }
+  }
+}
